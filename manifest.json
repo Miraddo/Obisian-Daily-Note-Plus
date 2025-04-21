@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-daily-notes-plus",
+    "name": "Daily Notes Plus",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Enhanced daily notes with smart templates, automatic date handling, and flexible organization",
+    "author": "Your Name",
+    "authorUrl": "https://github.com/yourusername",
+    "isDesktopOnly": false
+} 

@@ -1,0 +1,47 @@
+.daily-notes-path-input,
+.daily-notes-template-input {
+    width: 100%;
+    font-family: var(--font-monospace);
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    resize: vertical;
+}
+
+.daily-notes-path-input:focus,
+.daily-notes-template-input:focus {
+    border-color: var(--interactive-accent);
+    outline: none;
+}
+
+.daily-notes-template-input {
+    min-height: 200px;
+}
+
+/* Settings section styling */
+.daily-notes-settings-section {
+    margin-bottom: 1.5em;
+}
+
+.daily-notes-settings-section h3 {
+    margin-bottom: 0.5em;
+    color: var(--text-normal);
+}
+
+.daily-notes-help-text {
+    margin-top: 1em;
+    padding: 0.5em;
+    background-color: var(--background-secondary);
+    border-radius: 4px;
+}
+
+.daily-notes-help-text ul {
+    margin: 0.5em 0;
+    padding-left: 1.5em;
+}
+
+.daily-notes-help-text li {
+    margin: 0.25em 0;
+} 

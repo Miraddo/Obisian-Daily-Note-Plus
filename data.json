@@ -1,0 +1,8 @@
+{
+  "dailyNotesPath": "1-Calendar/Daily Notes",
+  "template": "---\ndate: {{date}}\ntype: daily-note\n---\n\n# {{date}}\n\n## 🎯 Tasks\n- [ ] \n\n## 📝 Notes\n\n\n## 📅 Events\n\n\n## 🔄 Daily Review\n- [ ] Review today's tasks\n- [ ] Plan for tomorrow\n- [ ] Reflect on the day\n\n## 📚 Links\n- \n",
+  "templatePath": "_templates/daily-note.md",
+  "dateFormat": "DDMMYYYY",
+  "useYamlFrontmatter": false,
+  "defaultNoteType": "markdown"
+}
